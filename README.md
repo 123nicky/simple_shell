@@ -1,1 +1,1 @@
-start codind your own shell
+start coding your own shell
